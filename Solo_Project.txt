@@ -1,0 +1,16 @@
+﻿Solo Project - Game Review Web App
+
+
+        In my solo project I hope to create a simple review project for video games. In it a user can register and login and from there check out all the game reviews they themselves created or others have created from a dashboard page. Also in the dashboard page a user can create a new review for a video game or click on an existing review and get a detailed look at that review. In the detailed view there will be a game title, image of said game, rating they gave, and a review as to why that person gave that score. If that user created that review they also have the option of editing that review in a link on the bottom of the detailed view page. On the edit page the user can change the game title, image, rating, and/or their review of that game or delete the review entirely. As for a product backlog I hope to implement a score aggregator so if another person reviews the same game the dashboard will show an average user score along with the title. 
+
+
+Features:
+* Registration/Login
+* Detailed view of game review
+* Create new review
+* Edit/delete review of game if they are the creator
+
+
+Backlog:
+* Score average on dashboard of each user’s review on same game
+* Likes/dislikes for that review
